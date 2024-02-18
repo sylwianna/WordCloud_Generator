@@ -4,13 +4,13 @@
 Word Cloud generator script in Python.
 
 ## Contents
-* [General Info](#genaral-info)
+* [General Info](#general-info)
 * [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
 * [How to use](#how-to-use)
-* [Inspiration](#inspiriration)
+* [Inspiration](#inspiration)
 
-## Genaral Info
+## General Info
 
 ## Getting Started
 
@@ -27,6 +27,6 @@ Word Cloud generator script in Python.
 ### How to use
 To run the script you need to have Python and a few libraries installed listed in prerequisites section. File words_list.txt contains a list of words which is required to make the script work. You can use it as is or create a custom one.
 
-## Inspiriration
+## Inspiration
 :bulb: I found out about the concept of a word cloud during my studies and the project I was working on back then and I liked the idea. Later on, I thought "Why not get more creative and print the result on the mug as a gift or create a descriptive LinkedIn background and also have fun learning some Python?".
 
