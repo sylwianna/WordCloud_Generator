@@ -1,6 +1,6 @@
 <img src="wordcloud_img.png" align="top" />
 
-# WordCloud Generator
+# Word Cloud Generator
 Word Cloud generator script in Python.
 
 ## Contents
