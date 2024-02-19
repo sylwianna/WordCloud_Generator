@@ -1,7 +1,7 @@
 <img src="wordcloud_img.png" align="top" />
 
 # Word Cloud Generator
-Word Cloud generator script in Python.
+Make a word cloud out of given list of words or a text.
 
 ## Contents
 * [General Info](#general-info)
@@ -11,6 +11,8 @@ Word Cloud generator script in Python.
 * [Inspiration](#inspiration)
 
 ## General Info
+Word cloud, also known as wordle, word collage or tag cloud, is a visual representation of words. It helps to quickly present and highlight the most common and most important words or answers in case of a survey or feedback.
+Word Cloud Generator is a script in Python which allows you to create a visualisation of word data in a form of a cloud using list of words or simply a plain text. By adjusting script parameters and list of words you can manipulate and shape the resulting image; change resolution, font or backgroud colours and frequency or weight of presented words etc.
 
 ## Getting Started
 
