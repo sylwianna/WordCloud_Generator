@@ -1,7 +1,7 @@
 <img src="wordcloud_img.png" align="top" />
 
 # Word Cloud Generator
-Make a word cloud out of given list of words or a text.
+Make a word cloud out of a given list of words or a text.
 
 ## Contents
 * [General Info](#general-info)
