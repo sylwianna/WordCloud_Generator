@@ -12,6 +12,7 @@ Make a word cloud out of a given list of words or a text.
 
 ## General Info
 Word cloud, also known as word collage or tag cloud, is a technique of visual representation of the most frequently occurring words in the given text and shown in the biggest font size. It helps to quickly present and highlight the most common and most important words or answers in case of a survey or feedback.
+
 Word Cloud Generator is a script in Python which allows you to create a visualisation of word data in a form of a cloud using list of words or simply a plain text. By adjusting script parameters and the text you can manipulate and shape the resulting image; change resolution, font or backgroud colours and frequency or weight of presented words etc.
 
 ## Getting Started
