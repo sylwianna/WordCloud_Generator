@@ -19,8 +19,8 @@ Word Cloud Generator is a script in Python which allows you to create a visualis
 ### Prerequisites
 
 * Python - version 3.9.7
-* wordcloud - versin 1.9.3
-* matplotlib - versin 3.8.3
+* wordcloud - version 1.9.3
+* matplotlib - version 3.8.3
 * (Optional) python-docx - version 1.1.0
 
 ### How to use
